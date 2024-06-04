@@ -7,14 +7,14 @@ Sort the result based on profits in descending order.
 
 Table Name : forbes_global_2010_2014
 
-company: varchar
-sector: varchar
-industry: varchar
-continent: varchar
-country: varchar
-marketvalue: float
-sales: float
-profits: float
-assets: float
-rank: int
+company: varchar ;
+sector: varchar ;
+industry: varchar ;
+continent: varchar ; 
+country: varchar ;
+marketvalue: float ;
+sales: float ;
+profits: float ;
+assets: float ;
+rank: int ;
 forbeswebpage: varchar
